@@ -1,0 +1,2 @@
+module le_memory {
+}
